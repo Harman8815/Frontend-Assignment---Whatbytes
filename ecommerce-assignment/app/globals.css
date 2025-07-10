@@ -1,0 +1,75 @@
+@import "tailwindcss";
+:root {
+  --primary: #004293;
+  --primaryButton: #0363d8;
+  --text: #111111;
+  --whitetext: #ffffff;
+  --surface: #f2f8ff;
+  --accent: #ffffff;
+  --border: #d1d5db;
+  --input-bg: #e2e8f0;
+  --grey:#e9e9e9;
+}
+
+.dark {
+   --primary: #121212;
+  --primaryButton: #262626;
+  --text: #e0e0e0;
+  --whitetext: #ffffff;
+  --surface: #181818;
+  --accent: #020202;
+  --border: #1e293b;
+  --input-bg: #0f1e33;
+  --grey:#141414;
+}
+
+
+
+.bg-primary {
+  background-color: var(--primary);
+}
+
+input[type="checkbox"].round-checkbox {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+input[type="checkbox"].round-checkbox:checked {
+  border-color: #0004ff;
+  background-color: #0004ff;
+}
+
+input[type="checkbox"].round-checkbox:checked::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.3s ease-out;
+}

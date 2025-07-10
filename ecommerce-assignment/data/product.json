@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 14",
+    "price": 79999,
+    "description": "Experience the power of A15 Bionic with stunning display and camera.",
+    "image": "https://m.media-amazon.com/images/I/618Bb+QzCmL.jpg",
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "title": "Samsung Galaxy S22",
+    "price": 69999,
+    "description": "Next-gen smartphone with dynamic AMOLED display and top-tier performance.",
+    "image": "https://m.media-amazon.com/images/I/71wGLBDEsvL.jpg",
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": "3",
+    "title": "Nike Air Max",
+    "price": 8999,
+    "description": "High-performance running shoes with cushioned sole and modern design.",
+    "image": "https://m.media-amazon.com/images/I/711v2pPVHKL.jpg",
+    "category": "Shoes",
+    "rating": 4.2
+  },
+  {
+    "id": "4",
+    "title": "Levi's Denim Jacket",
+    "price": 3499,
+    "description": "Classic denim jacket with modern tailoring for everyday style.",
+    "image": "https://media-us.landmarkshops.in/cdn-cgi/image/h=730,w=540,q=85,fit=cover/lifestyle/1000013578876-Blue-MidBlue-1000013578876_01-2100.jpg",
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": "5",
+    "title": "Atomic Habits",
+    "price": 499,
+    "description": "Bestselling book on habit-building by James Clear.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*tQszPBlBdi522xW1DnhwgQ.jpeg",
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": "6",
+    "title": "Sony WH-1000XM5",
+    "price": 29999,
+    "description": "Industry-leading noise cancelling headphones with premium sound quality.",
+    "image": "https://buy.budli.in/cdn/shop/files/Untitleddesign-2024-12-07T121227.322.jpg?v=1733553813&width=1946",
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": "7",
+    "title": "OnePlus Nord CE 3 Lite",
+    "price": 19999,
+    "description": "Affordable yet powerful smartphone with 108MP camera and 5000mAh battery.",
+    "image": "https://m.media-amazon.com/images/I/61QRgOgBx0L.jpg",
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": "8",
+    "title": "Adidas Ultraboost",
+    "price": 12999,
+    "description": "Comfort meets performance in this premium running shoe from Adidas.",
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/29602e3589a54e4aad28ba0090edbf94_9366/ULTRABOOST_1.0_SHOES_Grey_IE8976_HM1.jpg",
+    "category": "Shoes",
+    "rating": 4.6
+  },
+  {
+    "id": "9",
+    "title": "Puma Smash V2",
+    "price": 3499,
+    "description": "Casual sneakers with timeless style and all-day comfort.",
+    "image": "https://media.landmarkshops.in/cdn-cgi/image/h=550,w=550,q=85,fit=cover/lifestyle/1000013708258-Black-Black-1000013708258_02-2100.jpg",
+    "category": "Shoes",
+    "rating": 4.1
+  },
+  {
+    "id": "10",
+    "title": "H&M Basic T-Shirt",
+    "price": 599,
+    "description": "Simple cotton crew-neck tee for everyday wear.",
+    "image": "https://image.hm.com/assets/hm/9d/c9/9dc9233f9a9364ff3eac5ef2078545cb492045e5.jpg?imwidth=2160",
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": "11",
+    "title": "Uniqlo Oxford Shirt",
+    "price": 1990,
+    "description": "Classic slim-fit oxford shirt, perfect for work or weekends.",
+    "image": "https://i.ebayimg.com/images/g/U1gAAOSwa-FnG5bT/s-l1200.jpg",
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": "12",
+    "title": "The Psychology of Money",
+    "price": 379,
+    "description": "A powerful book exploring timeless lessons on wealth, greed, and happiness.",
+    "image": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg",
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": "13",
+    "title": "Deep Work",
+    "price": 450,
+    "description": "Learn how focused success in a distracted world can change your life.",
+    "image": "https://m.media-amazon.com/images/I/81JJ7fyyKyS.jpg",
+    "category": "Books",
+    "rating": 4.6
+  },
+  {
+    "id": "14",
+    "title": "boAt Rockerz 450",
+    "price": 1499,
+    "description": "Wireless Bluetooth headphones with up to 15 hours of playback.",
+    "image": "https://m.media-amazon.com/images/I/61u1VALn6JL.jpg",
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": "15",
+    "title": "Fire-Boltt Ninja Call Pro",
+    "price": 1599,
+    "description": "Smartwatch with calling, health monitoring and multiple sports modes.",
+    "image": "https://m.media-amazon.com/images/I/61rmkmqD5VL._UF1000,1000_QL80_.jpg",
+    "category": "Electronics",
+    "rating": 4.0
+  }
+]
